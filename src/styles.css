@@ -1,0 +1,35 @@
+* {
+  /* background-color: #282c34;
+  color: #fff; */
+  padding: 1px 2px;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  margin: 0px;
+}
+
+.list-group-item {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  cursor: pointer;
+  margin: 0;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+hr {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+
